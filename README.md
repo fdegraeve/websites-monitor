@@ -110,9 +110,9 @@ For any issues or suggestions regarding this project, feel free to open an issue
 
 
 
-This report was automatically generated on 2025-04-25 04:26:53 UTC.
+This report was automatically generated on 2025-04-26 04:25:57 UTC.
 
 | Website | Domain breach | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-degraeve.fr | ⚪ | 🟢 (354 days left) | 🟢 (79 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 98 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 |
-cloud.degraeve.fr | ⚪ | 🟢 (354 days left) | 🟢 (79 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟠 | 73 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+degraeve.fr | ⚪ | 🟢 (353 days left) | 🟢 (78 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 97 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | ⚪ | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 |
+cloud.degraeve.fr | ⚪ | 🟢 (353 days left) | 🟢 (78 days left) | 🟢 | 🟢 | 🟢 | 🟢 | 🟠 | 84 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
